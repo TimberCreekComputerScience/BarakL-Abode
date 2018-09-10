@@ -2,6 +2,8 @@
 
 In this round I answered 2 questions, and attempted 1 more.  
 
+https://www.schoolpay.com/pay/for/Programming-Team-Dues/IdJqt?mip=McEo
+
 ## Question #1 - Name of Question
 
 I used a greedy approach to solve this problem.  
