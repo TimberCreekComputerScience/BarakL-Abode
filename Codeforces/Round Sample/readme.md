@@ -1,8 +1,6 @@
 # Round Sample
 
-In this round I answered 2 questions, and attempted 1 more.  
-
-https://www.schoolpay.com/pay/for/Programming-Team-Dues/IdJqt?mip=McEo
+In this round I answered 1 question, got hacked on another, and attempted 1 more.  
 
 ## Question #1 - Doggo Recoloring
 
