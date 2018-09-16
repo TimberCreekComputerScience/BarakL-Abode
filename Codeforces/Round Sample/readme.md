@@ -1,4 +1,4 @@
-# Round Sample
+# Codeforces Round #505
 
 In this round I answered 1 question, got hacked on another, and attempted 1 more.  
 
