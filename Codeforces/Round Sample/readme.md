@@ -4,15 +4,23 @@ In this round I answered 2 questions, and attempted 1 more.
 
 https://www.schoolpay.com/pay/for/Programming-Team-Dues/IdJqt?mip=McEo
 
-## Question #1 - Name of Question
+## Question #1 - Doggo Recoloring
 
-I used a greedy approach to solve this problem.  
+Count the number of occurences of each character in the string. If there are more than 1 characters that appears only once, and there are no characters that appear more than once, print "No"
+otherwise print "Yes"
 
 ## Question #2 - Name of Question
 
-I used a BFS that was modified in this way....
+Find all the factors of each number in the first pair
+for each factor do a for loop through all the pairs and see if there's a case where neither number in the pair can evenly divide the factor being checked. If so print (-1), otherwise print the factor that was just checked and end the code.
 
-## Question #3
+Passed pretests but failed on main test 44 due to Time Limit Exceeded
 
-Did not solve but attempted this way...
+## Question #3 - Plasticine zebra
+
+Did not solve but I tried to loop up the string keeping track of how far you can go before the string stops alternating between "w" and "b", and then loop down the string doing the same thing.
+
+sum up the 2 values measuring each streak's length
+
+Then loop through the string again looking for the longest possible streak of alternating characters and then print the max between this and the previous sum
 
