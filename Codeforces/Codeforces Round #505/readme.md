@@ -21,4 +21,3 @@ Did not solve but I tried to loop up the string keeping track of how far you can
 sum up the 2 values measuring each streak's length
 
 Then loop through the string again looking for the longest possible streak of alternating characters and then print the max between this and the previous sum
-
