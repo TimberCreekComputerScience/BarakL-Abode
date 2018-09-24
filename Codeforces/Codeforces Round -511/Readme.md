@@ -3,9 +3,12 @@
 
 ## Problem A
 
-integer answers one, two, three
+Declare integer answers: one, two, three
+
 Default all answers to 1
+
 if(n%3==2) then set two to 2
+
 print one, two, n-(one+two)
 
 ## Problem B
